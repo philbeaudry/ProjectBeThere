@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BeThere</string>
+    <string name="menu_message">Welcome to BeThere</string>
+    <string name="share_button">Share</string>
+    <string name="look_button">Look what is around</string>
+    <string name="title_activity_share">share</string>
+</resources>
